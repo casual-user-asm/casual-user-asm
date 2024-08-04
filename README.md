@@ -1,2 +1,6 @@
+<h2 align="center">👋 Hello! I'm Vladyslav.</h2>
 
-![github-header-image(2)](https://github.com/user-attachments/assets/653228b5-eb87-4fef-8cd1-bcc2eb61f76c)
+
+- 💬 Ask me about **Javascript and Python**
+- 📫 How to reach me: [@vladyslav](www.linkedin.com/in/dubovyi) on LinkedIn
+- ⚡ Fun fact: I’m a big fan of clever code tricks and tech solutions! 🤓
