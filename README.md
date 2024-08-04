@@ -2,5 +2,5 @@
 
 
 - 💬 Ask me about **Javascript and Python**
-- 📫 How to reach me: [@vladyslav](www.linkedin.com/in/dubovyi) on LinkedIn
+- 📫 How to reach me: [@vladyslav](https://www.linkedin.com/in/dubovyi) on LinkedIn
 - ⚡ Fun fact: I’m a big fan of clever code tricks and tech solutions! 🤓
